@@ -3,6 +3,6 @@
 <p>Some of the technologies and languages I have worked with: </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,jest,nodejs,npm,express,postman,mongodb,mysql,git,kubernetes,docker,jira,figma,linux,nginx,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,jest,nodejs,express,postman,mongodb,mysql,git,kubernetes,docker,figma,linux,nginx,vscode,webpack" />
   </a>
 </p>
